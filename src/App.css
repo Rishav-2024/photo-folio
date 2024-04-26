@@ -1,0 +1,24 @@
+.app{
+  height:100vh;
+  overflow-y: scroll;
+}
+
+.app-light{
+  background-color: rgb(245, 247, 195);
+}
+.app-dark{
+  background-color: rgb(15, 78, 87);
+}
+
+.spinner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:30vh ;
+}
+
+.spinner h3{
+  margin: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.8rem;
+}
